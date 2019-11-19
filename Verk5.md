@@ -1,17 +1,5 @@
 Verkefni 5
 
-1. Hvað gera efturfarandi Linux Skipanir
+5. mér finst flot hvernig maður gettur farið svona aftur á bakk þótt að ég er ekki alveg viss um hvernig ég á að vitta hvaða file er hvað
 
-cd - 
-Skifta um staðsetningu
-
-ls-
-Sýnir öll gögn í viðkomandi möppu
-
-pwd -
-Sýnri staðsetningu Git Bash
-
-mkdir-
-make a new file
-
-2. 
+(:
